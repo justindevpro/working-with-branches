@@ -5,3 +5,6 @@ Melon
 Grapes
 Strawberries
 Blackberries
+Bananas
+Peaches
+
